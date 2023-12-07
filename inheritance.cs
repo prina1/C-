@@ -1,4 +1,4 @@
-using System.Security.Cryptography.X509Certificates;
+/*using System.Security.Cryptography.X509Certificates;
 
 namespace Inheritance{
     internal class Program{
@@ -19,4 +19,4 @@ namespace Inheritance{
            }
         }
     }
-}
+} */
